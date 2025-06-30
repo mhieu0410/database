@@ -1,0 +1,5 @@
+*.class 
+*.exe 
+__pycache__/ 
+*.log 
+.idea/ 
